@@ -1,0 +1,47 @@
+ 		<div class="row">
+                    <a href="">
+                        <div class="col-sm-5" id="sousbloc6-1">
+                            <div class="container-fluid" id="sousblocol6">
+                                <p>Title Here</p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="">
+                        <div class="col-sm-1">
+                            
+                        </div>
+                    </a>
+                    <a href="">
+                        <div class="col-sm-3" id="sousbloc6-2">
+                            <div class="container-fluid" id="sousblocol6">
+                                <p>Title Here</p>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="col-sm-3" id="sousbloc6-3">
+                        <a href="">
+                            <div class="row" id="ssbloc6-1">
+                                <div class="container-fluid" id="ssblocol6">
+                                    <p>Title Here</p>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="">
+                            <div class="row" id="ssbloc6-2">
+                                <div class="container-fluid" id="ssblocol6">
+                                    <p>Title Here</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+
+		    <div class="col-sm-8" id="ssb2-3">
+                        <img src="imgs/trip-adviser-profile.png" alt="">
+                        <p class="p2-4">Tripadvisor</p>
+                        <p class="p2-5">4.8</p>
+                        <img src="imgs/trip-adviser-star.png" alt="">
+                        <p class="p2-6">1,669 Reviews</p>
+                    </div>
+                    <div class="col-sm-4"></div>
